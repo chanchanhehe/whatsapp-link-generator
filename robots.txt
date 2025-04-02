@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chanchanhehe.github.io/whatsapp-link-generator/sitemap.xml
